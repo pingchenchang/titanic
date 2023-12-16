@@ -1,5 +1,5 @@
 This is a data set from kaggle - Titanic Machine Learning from Disaster.
-I tried to use random forest, Support Vector Machine, K-Nearest Neighbor and CNN to predict which Model will have the highest accuracy.
+I use random forest, Support Vector Machine, K-Nearest Neighbor and CNN to predict which Model will have the highest accuracy.
 
 1. Data Part
     - Fill up null value
@@ -22,8 +22,8 @@ I tried to use random forest, Support Vector Machine, K-Nearest Neighbor and CNN
 2. Model Part
     - Random Forest
         n_estimators=100
-        Accuracy: 0.8268156424581006
-
+        Accuracy: 0.8044692737430168
+      
     - Support Vector Machine
         probability=True, random_state=0
         Accuracy: 0.8100558659217877
@@ -34,5 +34,5 @@ I tried to use random forest, Support Vector Machine, K-Nearest Neighbor and CNN
 
     - CNN
         Layers: relu -> relu -> relu -> softmax
-        Accuracy: 0.8156424581005587
+        Accuracy: 0.8126
 
