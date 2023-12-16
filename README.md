@@ -35,3 +35,5 @@ I use random forest, Support Vector Machine, K-Nearest Neighbor and CNN to predi
     - CNN
         Layers: relu -> relu -> relu -> softmax
         Accuracy: 0.8126
+
+Test
