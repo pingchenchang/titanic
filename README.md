@@ -1,3 +1,6 @@
+This is a data set from kaggle - Titanic Machine Learning from Disaster.
+I tried to use random forest, Support Vector Machine, K-Nearest Neighbor and CNN to predict which Model will have the highest accuracy.
+
 1. Data Part
     - Fill up null value
         For Age,
